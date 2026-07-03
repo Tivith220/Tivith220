@@ -1,10 +1,12 @@
 name: profile-3d-contrib
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch: {}
   push:
     branches: [ main ]
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,20 +14,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           username: Tivith220
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
           commit_message: "generate 3d profile"
           create_branch: true
-
-After the first manual run (Actions tab → Run workflow), the `output`
-branch will contain the SVGs under profile-3d-contrib/ and the image
-link already in this README will start working automatically.
-
-Compulsory: Settings → Actions → General → Workflow permissions →
-"Read and write permissions" → Save (before running).
