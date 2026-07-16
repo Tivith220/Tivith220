@@ -159,16 +159,21 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 > "Great software is not just built to work — it's built to be trusted."
 
 ---
-# 🟢 Pac-Man Contribution Graph
+## 🟢 Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
-
 ---
 
 # 📅 Contribution Activity
