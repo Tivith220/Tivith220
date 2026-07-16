@@ -161,11 +161,11 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 ---
 ## 🟢 Pac-Man Contribution Graph
 
+## 🟢 Pac-Man Contribution Graph
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Tivith220/Tivith220/output/pacman-contribution-graph.svg">
