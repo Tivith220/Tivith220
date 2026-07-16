@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=230&section=header&text=Tivith%20B&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20Software%20Developer%20%7C%20Verification%20Systems&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=230&section=header&text=Tivith%20B&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20Software%20Developer%20%7C%20Verification%20Systems&descAlignY=60&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Tivith+B+👋;Java+Developer;Building+Verification+Systems;Software+Developer;Open+to+Work+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Tivith+B+👋;Python+Developer;Building+Verification+Systems;Software+Developer;Open+to+Work+🚀" />
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@
 
 # 👋 Hey There!
 
-I'm **Tivith B**, a Java Developer passionate about building secure, practical, and impactful software solutions.
+I'm **Tivith B**, a Python Developer passionate about building secure, practical, and impactful software solutions.
 
 My primary interests include:
 
 - 🪪 Government Document Verification Systems
 - 🔐 Verification & Security Solutions
 - 🛡️ Safety-Tech Simulation Projects
-- 💻 Java Application Development
+- 💻 Python Application Development
 - 🚀 Software Engineering & Problem Solving
 
 I enjoy transforming real-world problems into software that is reliable, secure, and user-friendly.
@@ -43,7 +43,7 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,mysql,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,github,vscode&theme=dark"/>
 
 </p>
 
@@ -53,9 +53,9 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 
 ### Programming
 
-- Java
 - Python
 - SQL
+- Java
 - HTML5
 - CSS3
 
@@ -65,10 +65,9 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 
 ### Tools
 
-- Git
 - GitHub
 - VS Code
-- Figma
+  
 
 </td>
 </tr>
@@ -79,11 +78,9 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 # 📌 Current Focus
 
 ```text
-✔ Java Development
+✔ Python Development
 
-✔ Data Structures & Algorithms
-
-✔ Backend Development
+✔ Frontend Development
 
 ✔ Software Engineering
 
@@ -125,7 +122,7 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 # 💡 What I'm Learning
 
 ```text
-☕ Advanced Java
+☕ MCP
 
 🧩 Data Structures & Algorithms
 
@@ -142,7 +139,7 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 
 # 🏅 Highlights
 
-✔ Java Developer
+✔ Python Developer
 
 ✔ Software Development Enthusiast
 
@@ -159,8 +156,6 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 > "Great software is not just built to work — it's built to be trusted."
 
 ---
-## 🟢 Pac-Man Contribution Graph
-
 ## 🟢 Pac-Man Contribution Graph
 
 <p align="center">
@@ -196,7 +191,7 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 
 # 💬 Favourite Quote
 
-> **"Build software that people can trust."**
+> **"Always do something SPECIAL..."**
 
 ---
 
