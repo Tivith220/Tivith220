@@ -113,18 +113,6 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tivith220&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivith220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -134,17 +122,6 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tivith220&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 💡 What I'm Learning
 
 ```text
