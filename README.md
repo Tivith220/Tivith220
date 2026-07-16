@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Tivith+B+👋;Java+Developer;Building+Verification+%26+Safety-Tech+Solutions;Passionate+About+Problem+Solving;Open+to+Software+Development+Opportunities+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Tivith+B+👋;Java+Developer;Building+Verification+Systems;Software+Developer;Open+to+Work+🚀" />
 </p>
 
 <p align="center">
@@ -117,12 +117,11 @@ I enjoy transforming real-world problems into software that is reliable, secure,
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tivith220&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivith220&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tivith220&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivith220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 ---
 
