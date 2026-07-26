@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="[Gemini_Generated_Image_nbp350nbp350nbp3.png](https://github.com/Tivith220/banner/blob/e6d1abe9a715f6596c58e48e728c773db4a22be9/Gemini_Generated_Image_nbp350nbp350nbp3.png)" alt="Tivith B - GitHub Banner" width="100%">
-</p>
+<img width="1424" height="736" alt="Gemini_Generated_Image_nbp350nbp350nbp3" src="https://github.com/user-attachments/assets/8f09e014-608a-4d61-91aa-59e835cc6313" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=230&section=header&text=Tivith%20B&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%7C%20UI%20Designer%20%7C%20Creative%20Thinker%20&descAlignY=60&descSize=18" width="100%" />
 </p>
