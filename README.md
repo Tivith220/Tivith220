@@ -11,7 +11,7 @@
 **I'm Tivith** — Passionate Java and Py3 Developer,AI Prompter,Graphics Designer,Video Editor.  
 I build always something special in all of my stuffs.  
 
-Visit my portfolio: [Portfolio](https://tivith-b-pf.vercel.app/) | [LinkedIn](www.linkedin.com/in/tivithb) | [Github] (https://github.com/Tivith220) | [Leetcode] (https://leetcode.com/u/tivitk220/)
+Visit my portfolio: [Portfolio](https://tivith-b-pf.vercel.app/) |[LinkedIn](www.linkedin.com/in/tivithb) |[Github](https://github.com/Tivith220) | [Leetcode](https://leetcode.com/u/tivitk220/)
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=java,python,mysql,ps,github" />
@@ -26,13 +26,13 @@ Visit my portfolio: [Portfolio](https://tivith-b-pf.vercel.app/) | [LinkedIn](ww
 <details>
   <summary>GitHub Stats ⚡</summary><br/>
   
-![](https://github-readme-stats.shion.dev/api?username=mr-sanjai-offl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Tivith220&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=mr-sanjai-offl&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Tivith220&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mr-sanjai-offl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tivith220&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=mr-sanjai-offl&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Tivith220&style=for-the-badge&color=blue)
 
 </details>
 
